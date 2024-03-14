@@ -1,0 +1,27 @@
+{
+	"id": "7fe9d52d-6318-4b3b-88c9-b49406be5626",
+	"values": [
+		{
+			"key": "accept",
+			"value": "application/json",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "Authorization",
+			"value": "Bearer 13123124123123",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Accept",
+			"value": "text/html",
+			"type": "default",
+			"enabled": false
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-03-14T11:57:17.658Z",
+	"_postman_exported_using": "Postman/10.24.2"
+}
